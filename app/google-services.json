@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061534218072",
+    "firebase_url": "https://instalogin-2d63a.firebaseio.com",
+    "project_id": "instalogin-2d63a",
+    "storage_bucket": "instalogin-2d63a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061534218072:android:1600ea8f5ef783fddb172d",
+        "android_client_info": {
+          "package_name": "app.papr.instalogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061534218072-i9hdne4200dh221gpmrtsugep8kieirn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt3YvARuENnJb5B_5tbNrMMpTG2Keg-U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061534218072-i9hdne4200dh221gpmrtsugep8kieirn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
